@@ -1,10 +1,14 @@
 # qrcode
 
-> A Vue.js project
+> 基于 html5 网页调用摄像头识别二维码,跳转页面的一个 Demo
+> 使用 jsqr 依赖 前端算法解析  二维码
+> QQ:873039435
 
 ## Build Setup
 
-``` bash
+```bash
+
+
 # install dependencies
 npm install
 
@@ -25,6 +29,7 @@ npm run e2e
 
 # run all tests
 npm test
-```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+```
